@@ -2,6 +2,8 @@ import customtkinter as ctk
 import Registration.Frame
 import Registration.Observer
 
+from Network.Client.StartClient import Client
+
 """
 я плохо знаю python но вот тебе пример того как правильной архетектуры приложения
     т.е. то как правильно создавать классы не зависимо от языка
